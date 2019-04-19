@@ -20,6 +20,7 @@
   "devDependencies": {
     "@ember/jquery": "^0.5.2",
     "@ember/optional-features": "^0.6.3",
+    "@cardstack/ui-components": "github:cardstack/ui-components#master",
     "broccoli-asset-rev": "^2.7.0",
     "ember-a11y-testing": "^0.5.7",
     "ember-ajax": "^5.0.0",

@@ -694,6 +694,14 @@
     lodash "^4.17.11"
     to-fast-properties "^2.0.0"
 
+"@cardstack/ui-components@github:cardstack/ui-components#master":
+  version "0.0.1"
+  resolved "https://codeload.github.com/cardstack/ui-components/tar.gz/f88c3dc93809ad2a49454377fa54e8c89d4285bd"
+  dependencies:
+    ember-cli-babel "^7.1.2"
+    ember-cli-htmlbars "^3.0.0"
+    ember-cli-sass "^10.0.0"
+
 "@cnakazawa/watch@^1.0.3":
   version "1.0.3"
   resolved "https://registry.yarnpkg.com/@cnakazawa/watch/-/watch-1.0.3.tgz#099139eaec7ebf07a27c1786a3ff64f39464d2ef"
