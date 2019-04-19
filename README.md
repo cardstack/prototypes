@@ -1,7 +1,8 @@
 # prototypes
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+This work-in-progress project is a normal Ember app that is used for testing out new interface designs. All data in this app is mocked, either in the model hook or via [ember-cli-mirage](https://github.com/samselikoff/ember-cli-mirage).
+
+It relies on [@cardstack/ui-components](https://github.com/cardstack/ui-components).
 
 ## Prerequisites
 
